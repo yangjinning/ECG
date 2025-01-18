@@ -1,0 +1,902 @@
+[
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 0,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            45102411
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1279/p12799029/s45102411/45102411"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 1,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            44775077
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1984/p19847618/s44775077/44775077"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 2,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            49755004
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1384/p13845401/s49755004/49755004"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 3,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            49402853
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1411/p14117682/s49402853/49402853"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 4,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            42629770
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1564/p15646259/s42629770/42629770"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 5,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            41072023
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1898/p18987861/s41072023/41072023"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 6,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            42251626
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1800/p18003419/s42251626/42251626"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 7,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            42419778
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1675/p16751749/s42419778/42419778"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 8,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            41785840
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1350/p13509135/s41785840/41785840"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 9,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            42975176
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1998/p19985885/s42975176/42975176"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 10,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            47485912
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1537/p15375935/s47485912/47485912"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 11,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            40475009
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1858/p18581793/s40475009/40475009"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 12,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            42280420
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1555/p15553153/s42280420/42280420"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 13,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            49564680
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1078/p10785608/s49564680/49564680"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 14,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            43866279
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1415/p14150129/s43866279/43866279"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 15,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            45373145
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1212/p12127441/s45373145/45373145"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 16,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            47427007
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1776/p17763649/s47427007/47427007"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 17,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            41308028
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1770/p17703513/s41308028/41308028"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 18,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            40055342
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1784/p17842950/s40055342/40055342"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 19,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            42400494
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1198/p11980812/s42400494/42400494"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 20,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            49628225
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1199/p11999945/s49628225/49628225"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 21,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            46009994
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1051/p10512361/s46009994/46009994"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 22,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            43059844
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1335/p13358833/s43059844/43059844"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 23,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            48075583
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1638/p16382076/s48075583/48075583"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 24,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            48484722
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1671/p16713571/s48484722/48484722"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 25,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            45504657
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1925/p19250437/s45504657/45504657"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 26,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            49170537
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1763/p17633367/s49170537/49170537"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 27,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            40820865
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1129/p11296439/s40820865/40820865"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 28,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            48958602
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1888/p18887370/s48958602/48958602"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 29,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            41787422
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1283/p12831040/s41787422/41787422"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 30,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            42489690
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1129/p11297138/s42489690/42489690"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 31,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            46439489
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1514/p15144601/s46439489/46439489"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 32,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            40893539
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1681/p16812723/s40893539/40893539"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 33,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            40892674
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1163/p11638610/s40892674/40892674"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 34,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            43310909
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1238/p12386694/s43310909/43310909"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 35,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            49069987
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1838/p18387126/s49069987/49069987"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 36,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            47165521
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1500/p15003518/s47165521/47165521"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 37,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            42773176
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1756/p17565549/s42773176/42773176"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 38,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            48646689
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1451/p14513402/s48646689/48646689"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 39,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            48439122
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1460/p14605415/s48439122/48439122"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 40,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            46050413
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1642/p16422158/s46050413/46050413"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 41,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            40014620
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1118/p11181757/s40014620/40014620"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 42,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            47132166
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1111/p11111868/s47132166/47132166"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 43,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            45998566
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1033/p10333070/s45998566/45998566"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 44,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            43961194
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1041/p10418018/s43961194/43961194"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 45,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            40928704
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1498/p14988347/s40928704/40928704"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 46,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            45157786
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1627/p16274426/s45157786/45157786"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 47,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            46427643
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1632/p16320869/s46427643/46427643"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 48,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            43993726
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1893/p18935074/s43993726/43993726"
+    },
+    {
+        "template_id": 1,
+        "question_id": 0,
+        "sample_id": 49,
+        "question_type": "single-verify",
+        "attribute_type": "scp_code",
+        "question": "Does this ECG show symptoms of 2:1 AV block?",
+        "answer": [
+            "yes"
+        ],
+        "ecg_id": [
+            41437736
+        ],
+        "attribute": [
+            "2:1 AV block"
+        ],
+        "ecg_path": "p1356/p13560349/s41437736/41437736"
+    }
+]
